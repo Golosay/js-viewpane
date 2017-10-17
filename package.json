@@ -1,7 +1,7 @@
 {
-  "name": "js-viewpane",
-  "version": "0.2.0",
-  "description": "",
+  "name": "js-viewpanes",
+  "version": "0.2.1",
+  "description": "Updated js-viewpane plugin with fixes",
   "scripts": {
     "dist": "grunt dist",
     "test": "grunt test"
